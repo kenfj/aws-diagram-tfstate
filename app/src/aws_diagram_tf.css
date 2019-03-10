@@ -1,0 +1,13 @@
+#graphContainer {
+  position: relative;
+  overflow: hidden;
+  width: 601px;
+  height: 501px;
+  background: url("../images/grid.gif");
+  cursor: default;
+}
+
+code {
+  background: gainsboro;
+  padding: 0.2em;
+}
